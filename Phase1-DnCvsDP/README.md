@@ -1,8 +1,8 @@
 # Group Members:
-Afraz Ul Huq (8886)
-Syed Hamza Haider (62610)
+## Afraz Ul Huq (8886)
+## Syed Hamza Haider (62610)
 
-# Free hosted web:
+# Hosted Webpage
 https://queen-cover-problem.000webhostapp.com/
 
 # How We Approached This Problem
